@@ -14,19 +14,19 @@ Computer-Vision-Assignments/
 │ ├── operations.ipynb
 │ ├── README.md
 │ ├── requirements.txt
-│ └── sample_outputs/
+│ 
 │
 ├── 02_VAE/
 │ ├── ai22btech11006_hw2.ipynb
 │ ├── README.md
 │ ├── requirements.txt
-│ └── generated_samples/
+│ 
 │
 ├── 03_GAN/
 │ ├── ai22btech11006_hw3.ipynb
 │ ├── README.md
 │ ├── requirements.txt
-│ └── generated_samples/
+│ 
 │
 └── README.md
 ```
