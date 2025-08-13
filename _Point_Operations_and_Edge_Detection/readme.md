@@ -1,7 +1,5 @@
 
----
-
-## 01_Point_Operations_and_Edge_Detection/README.md`
+-
 
 ## Point Operations and Edge Detection
 
@@ -24,5 +22,5 @@ See `requirements.txt`.
 ##  How to Run
 ```bash
 pip install -r requirements.txt
-jupyter notebook operations.ipynb
+jupyter notebook Point_Operation_and_Edge_Dectection.ipynb
 ```
